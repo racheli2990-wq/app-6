@@ -4,6 +4,7 @@ import android.app.*;
 import android.os.Bundle;
 import android.content.*;
 import android.graphics.Color;
+import android.graphics.drawable.GradientDrawable;
 import android.graphics.Typeface;
 import android.view.*;
 import android.view.inputmethod.InputMethodManager;
